@@ -1,4 +1,4 @@
 # nh-cal-Someone8448
 -- National Holiday Calendar
--- Created By Indivial
+-- Created By Individual(Me)
 -- Please Credit If used 
